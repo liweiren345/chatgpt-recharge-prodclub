@@ -6,6 +6,12 @@ ProdClub 提供 ChatGPT Plus、Pro 订阅充值，以及 ChatGPT / Codex 手机�
 
 **官网入口：[https://prodclub.xyz/r/H2H3TT](https://prodclub.xyz/r/H2H3TT)**
 
+## 操作演示
+
+[打开官网观看 41 秒购买流程演示](https://prodclub.xyz/r/H2H3TT)
+
+进入首页后点击「看看怎么买」，可按章节查看选报价、下单、付款和开通流程。
+
 ## 网站预览
 
 [![ProdClub 官网首页预览](assets/prodclub-homepage.png)](https://prodclub.xyz/r/H2H3TT)
